@@ -1,0 +1,19 @@
+#bookRoom{
+    background-image: url("./roomBooker.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#bookRoomPara{
+    text-align: center;
+    padding-top: 3%;
+}
+
+#bookRoomButton{
+    text-align: center;
+}
+
+#bookRoomHeader{
+    font-size: 40px;
+}

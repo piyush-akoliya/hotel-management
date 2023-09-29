@@ -1,0 +1,30 @@
+#typesLog{
+    background-image: url("./color1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 100%;
+    padding: 20%;
+    display: flex;
+    justify-content: space-around;
+}
+
+#user,#admin{
+    margin-left: 10px solid black;
+    font-size: 150%;
+    text-align: center;
+    transition: 0.4s;
+}
+#user:hover{
+    transform: scale(1.1,1.1);
+    cursor: pointer;
+}
+
+#admin:hover{
+    transform: scale(1.1,1.1);
+    cursor: pointer;
+}
+/* i{
+    font-size: 100px;
+} */

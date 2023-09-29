@@ -1,0 +1,12 @@
+#footer{
+    display: flex;
+    /* flex-direction:row; */
+    background-color: #07072c;
+    color: white;
+    justify-content: space-around;
+    padding: 10px;
+}
+#footpart1 div,#footpart2 div{
+    padding: 10px;
+    font-size: 20px;
+}

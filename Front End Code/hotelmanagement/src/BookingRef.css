@@ -1,0 +1,16 @@
+.images1
+{
+    background-image: url("demo2.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 20% 20% 20% 20%;
+}
+
+#bookRef{
+    color: black;
+    text-shadow: 2px 2px 10px white;
+    font-size: 30px;
+    font-weight: bold;
+}

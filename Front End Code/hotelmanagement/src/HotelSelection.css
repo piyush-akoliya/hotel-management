@@ -1,0 +1,10 @@
+#hotelSection{
+    display: flex;
+    flex-direction: column;
+    margin: 80px;
+    align-items: center;
+}
+
+#sectPara{
+    padding: 5%;
+}

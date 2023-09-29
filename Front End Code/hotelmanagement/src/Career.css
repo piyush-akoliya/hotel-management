@@ -1,0 +1,15 @@
+.careerPage
+{
+    background-image: url("careerbackground.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 2% 2% 2% 2%;
+}
+#careerRef{
+    color:navy;
+    text-shadow: 2px 2px 10px white;
+    font-size: 50px;
+    font-weight: bold;
+}
